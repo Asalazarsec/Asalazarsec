@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Alexandra Salazar 👩🏻‍💻🔐</h1>
 <p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Student-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Learner-d8b4fe?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Developer-f9a8d4?style=for-the-badge" />
