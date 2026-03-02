@@ -1,16 +1,17 @@
-## Hi there 👋
+Voy a crear un README de GitHub impresionante para ti, Ale. 🔐¡Aquí tienes tu nuevo README, Ale! 🔐 Tiene un estilo hacker/matrix muy pro. Esto es lo que incluye:
 
-<!--
-**Asalazarsec/Asalazarsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Banner ASCII** con "CYBERSE" estilo terminal
+- **Typing animation** que muestra tus roles
+- **Bloque de código Python** que describe quién eres
+- **Badges de herramientas** (Kali, Burp Suite, Metasploit, Nmap, etc.)
+- **Stats de GitHub** con tema verde matrix
+- **Tabla de proyectos** lista para llenar
+- **Links de contacto** con badges
 
-Here are some ideas to get you started:
+**Para usarlo:** Ve a tu repo `Asalazarsec/Asalazarsec` → reemplaza el README.md con este contenido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personaliza estos campos:**
+- `TU_USUARIO` en TryHackMe y HackTheBox
+- `TU_EMAIL` en el badge de email
+- `LinkedIn` con tu perfil real
+- La tabla de proyectos con tus repos reales cuando los tengas
