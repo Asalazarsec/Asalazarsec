@@ -1,8 +1,16 @@
-<h1 align="center">🌸 Hi, I'm Alexandra Salazar 👩🏻‍💻💜</h1>
+<h1 align="center">💜 Alexandra Salazar 👩🏻‍💻</h1>
 
 <p align="center">
-  🌷 Cybersecurity Student | 🔐 Future SOC Analyst | 💜 Anime Tech Girl
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=C084FC&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+Lover;Anime+Tech+Girl+%F0%9F%92%9C" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/9Xn4V6B.gif" width="420"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Student-c084fc?style=for-the-badge" />
@@ -13,20 +21,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
-</p>
-
----
-
 ## 🌸 About Me
 
-🎓 Cybersecurity student from Peru  
-💜 Passionate about protecting systems & networks  
-🔐 Focused on Defensive Security & Blue Team  
+💜 Cybersecurity student from Peru  
+🔐 Focused on Defensive Security  
+👩🏻‍💻 Passionate about protecting systems  
 🐧 Linux enthusiast  
 📘 Preparing for ISC2 Certified in Cybersecurity (CC)  
-✨ Dreaming of becoming a SOC Analyst  
+✨ Dream: SOC Analyst  
 
 ---
 
@@ -53,15 +55,6 @@
 
 ---
 
-## 🌙 Currently Learning
-
-✨ Incident Response  
-✨ SOC Operations  
-✨ Log Analysis  
-✨ Risk Management  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -70,12 +63,6 @@
 
 ---
 
-## 💌 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/alexandra-salazar-b5b460372/  
-
----
-
 <p align="center">
-  💜✨ "Cute outside. Cyber defense inside." ✨💜
+💜✨ Cute outside. Cyber defense inside. ✨💜
 </p>
