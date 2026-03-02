@@ -17,7 +17,7 @@
 
 
 
-<picture> <img align="right" top="500" height="300" width="400" alt="GIF"  src="https://raw.githubusercontent.com/Asalazarsec/Asalazarsec/main/banner.gif.gif" width = 250px></picture>
+<picture> <img align="right" top="500" height="300" width="400" alt="GIF"  src="https://raw.githubusercontent.com/Asalazarsec/Asalazarsec/main/banner fuente.gif" width = 250px></picture>
 
 <br>
 
