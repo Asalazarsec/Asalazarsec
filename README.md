@@ -35,7 +35,6 @@
 
 
 
-<---- nota----->>
 
 
 ### 🔗 Conéctate conmigo
