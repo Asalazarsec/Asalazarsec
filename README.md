@@ -13,13 +13,11 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
-<picture> <img align="right" top="500" height="300" width="400" alt="GIF"  src="https://raw.githubusercontent.com/Asalazarsec/Asalazarsec/main/banner.gif.gif" width = 250px></picture>
-
-<br>
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV2ZTcwbGZuOGd3eDYxM2kxanF1eXN1b2NzNWhvMnZ5ZGQwYm9mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
