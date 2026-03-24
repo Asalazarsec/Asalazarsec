@@ -90,20 +90,26 @@ and users from evolving cyber threats.
 
 ---
 
-# <span style="color:#00FF00;"> Cybersecurity Practice</span>
 
 
-<img align="right" height="240" src="https://i.gifer.com/6vIk.gif">
+
+# Cybersecurity Practice
+
+<p align="left">
+  <img src="https://i.gifer.com/6vIk.gif" align="right" height="240" style="margin-left:20px; margin-bottom:10px;">
+</p>
 
 Cybersecurity student focused on **defensive security and SOC operations**.  
 Passionate about **threat detection, log analysis, and Active Directory security**.
 
-- Capture The Flag (CTF)
-- Hack The Box
-- Security Labs
-- Network Simulations
-- Vulnerability Practice
----
+- Capture The Flag (CTF)  
+- Hack The Box  
+- Security Labs  
+- Network Simulations  
+- Vulnerability Practice  
+
+<br clear="right"/>
+
 
 # <span style="color:#00FF00;"> Tools & Technologies</span>
 
@@ -113,9 +119,6 @@ Passionate about **threat detection, log analysis, and Active Directory security
 
 ---
 
-# <span style="color:#00FF00;"> Learning Progress</span>
-
----
 
 # <span style="color:#00FF00;"> Career Goals</span>
 
