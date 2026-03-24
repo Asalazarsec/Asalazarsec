@@ -22,8 +22,17 @@ Cybersecurity Student | Aspiring SOC Analyst | Blue Team
 <img align="right" height="240" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
 
 Cybersecurity student focused on **defensive security and SOC operations**.  
-Passionate about **threat detection, log analysis, and Active Directory security**.
+Passionate about **threat detection, log analysis, and Active Directory security**, 
+with hands-on experience in **labs, CTF challenges, and network simulations**.
 
+I enjoy analyzing security events, identifying suspicious activity, and strengthening 
+defensive strategies in enterprise environments. My goal is to work in a **Security 
+Operations Center (SOC)**, contributing to **incident detection, response, and continuous monitoring**.
+
+I am always **eager to learn new technologies and security tools**, and I actively seek 
+opportunities to **improve my skills through practical experience, collaborative projects, and real-world scenarios**.  
+I aim to become a **proficient SOC Analyst**, capable of protecting systems, networks, 
+and users from evolving cyber threats.
 - 💠 Blue Team Mindset  
 - 💠 Network Security & CCNA Knowledge  
 - 💠 Active Directory Security  
@@ -121,9 +130,20 @@ Passionate about **threat detection, log analysis, and Active Directory security
 # <span style="color:#00FF00;"> Connect With Me</span>
 
 <p align="center">
-<a href="https://linkedin.com/in/alexandra-salazar-b5b460372">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/maria-alexandra-salazar-estrada-7b4bbb3b3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right:10px;"/>
+  </a>
+
+  <!-- Facebook (icono externo) -->
+  <a href="https://www.facebook.com/profile.php?id=61577595125329" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="24" style="margin-right:10px;"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:alexhansalzar.est80@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
 
 <p align="center">
