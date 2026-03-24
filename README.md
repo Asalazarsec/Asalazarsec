@@ -2,70 +2,132 @@
   <img src="https://raw.githubusercontent.com/Asalazarsec/Asalazarsec/main/banner.png" width="100%" />
 </p>
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<span style="color:#00FFFF;">Hi, I'm Alejandra Salazar</span>
+</h1>
 
+<h3 align="center" style="color:#FF00FF;">
+Cybersecurity Student | Aspiring SOC Analyst | Blue Team
+</h3>
 
-<h1 align="center"><b>Hi , I'm Ale Salazar <3 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- nombre de presentaci -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=800&lines=Cybersecurity+Student+%7C+Aspiring+SOC+Analyst+%7C+%F0%9F%87%B5%F0%9F%87%AA+Per%C3%BA" alt="Typing SVG" />
-  </a>
-</div>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV2ZTcwbGZuOGd3eDYxM2kxanF1eXN1b2NzNWhvMnZ5ZGQwYm9mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-
-
-
-
-
-
-
-
-### 🔗 Conéctate conmigo
 <p align="center">
-  <a href="https://linkedin.com/in/alexandra-salazar-b5b460372" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://discord.gg/R6QBSHna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00FFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;SOC+Analyst+Enthusiast;Active+Directory+Security;Threat+Detection;Log+Analysis;Blue+Team+Mindset" />
 </p>
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+# <span style="color:#00FF00;"> About Me</span>
+
+<img align="right" height="240" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
+
+Cybersecurity student focused on **defensive security and SOC operations**.  
+Passionate about **threat detection, log analysis, and Active Directory security**.
+
+- 💠 Blue Team Mindset  
+- 💠 Network Security & CCNA Knowledge  
+- 💠 Active Directory Security  
+- 💠 Python & Bash Automation  
+- 💠 Incident Response Basics  
+- 💠 Hands-on Labs & CTF  
+
+---
+
+# <span style="color:#00FF00;"> Cybersecurity Interests</span>
+
+✨ Security Operations Center (SOC)  
+✨ Blue Team Operations  
+✨ Threat Detection  
+✨ Incident Response  
+✨ Log Analysis  
+✨ Network Security  
+✨ Active Directory Security  
+✨ Security Monitoring  
+
+---
+
+# <span style="color:#00FF00;"> Technical Skills</span>
+
+### 🌐 Networking
+- CCNA Fundamentals
+- IPv4 Addressing & Subnetting
+- VLANs
+- Routing & Switching
+- DHCP / DNS
+- Packet Analysis
+
+### 🖥️ Systems
+- Windows Server
+- Active Directory
+- Group Policies (GPO)
+- Linux Administration
+- Kali Linux
+- Red Hat Enterprise Linux
+
+### 🔐 Cybersecurity
+- Log Analysis
+- Threat Detection
+- Email Header Analysis
+- OSINT Investigation
+- Security Hardening
+- Incident Response Basics
+
+### 💻 Programming
+- Python
+- Bash
+- C#
+- HTML & CSS
+- JavaScript Basics
+
+---
+
+# <span style="color:#00FF00;"> Cybersecurity Practice</span>
+
+
+<img align="right" height="240" src="https://i.gifer.com/6vIk.gif">
+
+Cybersecurity student focused on **defensive security and SOC operations**.  
+Passionate about **threat detection, log analysis, and Active Directory security**.
+
+- Capture The Flag (CTF)
+- Hack The Box
+- Security Labs
+- Network Simulations
+- Vulnerability Practice
+---
+
+# <span style="color:#00FF00;"> Tools & Technologies</span>
+
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,cs,html,css,js,git,github,nginx,windows,powershell,redhat,ubuntu,kali,vscode,visualstudio" />
 </p>
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+# <span style="color:#00FF00;"> Learning Progress</span>
+
+---
+
+# <span style="color:#00FF00;"> Career Goals</span>
+
+🌸 Become SOC Analyst  
+🌸 Work in Blue Team environments  
+🌸 Develop security tools in Python  
+🌸 Improve threat detection skills  
+🌸 Gain hands-on cybersecurity experience  
+
+---
+
+# <span style="color:#00FF00;"> Connect With Me</span>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asalazarsec&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=asalazarsec&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asalazarsec" alt="Streak Stats" />
+<a href="https://linkedin.com/in/alexandra-salazar-b5b460372">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+<p align="center">
+<span style="color:#00FFFF;">Cybersecurity</span> • 
+<span style="color:#FF00FF;">Blue Team</span> • 
+<span style="color:#00FF00;">Always Learning</span>
+</p>
